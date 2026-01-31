@@ -3,7 +3,7 @@
 
 ### 💫 About Me
 I’m a **Data Engineer and Software Engineer** building **scalable cloud data pipelines** on **AWS and Azure** and developing **end-to-end backend systems**. I also design **user-centric dashboards and interfaces** that turn data into actionable insights. I enjoy working on **data engineering, analytics, and full-stack projects**, and I’m currently learning **distributed systems, real-time pipelines, and UX best practices**.  
-<br><br>⚡ Fun fact: I love building systems where **clean data, solid code, and great UX meet**.
+⚡ Fun fact: I love building systems where **clean data, solid code, and great UX meet**.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/pavan_thollamdugu)
