@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello there 👋
 ### Data Engineer | Software Engineer 
 
 ### 💫 About Me
