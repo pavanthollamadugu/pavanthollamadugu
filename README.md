@@ -1,4 +1,4 @@
-## Hello 👋
+## Hello 
 ### Data Engineer | 
 
 ### 💫 About Me
